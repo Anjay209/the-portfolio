@@ -418,6 +418,7 @@ opacity: 1;
   height: 55px;
   margin: 0 15px;
   perspective: 1000px;
+  cursor: pointer;
 }
 .button a{
   font-size: 19px;
@@ -426,6 +427,7 @@ opacity: 1;
   transform: translateZ(-25px);
   transition: transform .25s;
   font-family: 'Montserrat', sans-serif;
+  cursor: pointer;
 
 }
 .button a:before,
