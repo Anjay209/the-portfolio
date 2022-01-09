@@ -584,6 +584,7 @@ min-height: 250px; }
   position: absolute;
   top: -20px;
   font-size: 8em;
+  transition: 1.5s;
   color: rgba(255, 255, 255, 0.05);
 }
 
@@ -601,7 +602,7 @@ min-height: 250px; }
   font-size: 0.85em;
   color: #fff;
   font-weight: 300;
-    transform: translateY(0px);
+    transform: translateY(100px);
     opacity:0 ;
     transition: 0.5s;
 }
