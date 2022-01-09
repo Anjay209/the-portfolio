@@ -336,15 +336,14 @@
     <h2 class="section-heading" data-outline="Contact me">Contact me</h2>
   </div>
   </div>
-
-</div>
+  </div>
 <div data-aos="fade-up"
   data-aos-delay="200">
 <div id="container">
   <div class="underline">
   </div>
   <div class="icon_wrapper">
-  <form action="#" method="post" id="contact_form">
+  <form action="https://hidden-cove-56796.herokuapp.com/anjay/send_email" method="POST" id="contact_form">
     <div class="name">
       <label for="name"></label>
       <input type="text" placeholder="My name is" name="name" id="name_input" required>
@@ -367,9 +366,10 @@
       <textarea name="message" placeholder="I'd like to chat about" id="message_input" cols="30" rows="5" required></textarea>
     </div>
     <div class="submit">
-      <input type="submit" value="Send Message" id="form_button" />
+      <input type="submit" value="Send Message" id="form_button"/>
     </div>
-  </form><!-- // End form -->
+  </form>
+  </div><!-- // End form -->
 </div><!-- // End #container -->
 </div>
 
