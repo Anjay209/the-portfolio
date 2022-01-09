@@ -15,6 +15,7 @@ html{
 body {
   background: #111;
   overflow-x: hidden;
+  cursor: url(Cursor/Cursor.png), pointer;
 }
 
 /*Navigation*/

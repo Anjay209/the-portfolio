@@ -24,6 +24,7 @@ html {
 
 body {
   background-color: var(--body-bg);
+    cursor: url(Cursor/Cursor.png), pointer;
 }
 
 
@@ -131,6 +132,7 @@ header ul li a {
   transition: 1s;
   font-family: 'Poppins', sans-serif;
  position: sticky;
+   cursor: url(Cursor/Cursor.png), pointer;
 
 }
 

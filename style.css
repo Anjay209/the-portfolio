@@ -13,6 +13,7 @@ body{
   Background: #0d3b66;
   overflow-x: hidden;
   scroll-behavior: smooth;
+  cursor: url(Cursor/Cursor.png), pointer;
 }
 
 /*scroll to top*/
