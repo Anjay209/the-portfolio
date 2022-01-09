@@ -195,7 +195,7 @@ header.sticky ul li a {
   background: linear-gradient(to top, #008aff,#00ffe7);
   animation: animato 5s linear infinite;
   z-index: 1000000000000000000;
-  border-radius: 25%;
+  border-radius:5%;
 }
 
 @keyframes animato {
