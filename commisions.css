@@ -47,6 +47,7 @@ a{
   font-size: 1.8rem;
   padding: 0.6em 1.6em;
   border-radius: 50px;
+   cursor: pointer;
 }
 
 /*scroll to top*/
@@ -92,6 +93,7 @@ header {
   padding:15px 100px;
   z-index: 1000000;
   background: transparent;
+   cursor: pointer;
 
 
 }
@@ -107,20 +109,6 @@ header .logo {
   letter-spacing: 2px;
   padding:5px 0px;
 }
-
-/* header ul {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-
-}
-
-header ul li {
-position: relative;
-list-style: none;
-} */
 
 header ul li a {
   margin: 0 15px;
